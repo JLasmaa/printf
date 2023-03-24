@@ -1,4 +1,4 @@
-#include "main.h"
+#includ "main.h"
 /************************* PRINT CHAR *************************/
 /**
  * print_char - Prints a char
