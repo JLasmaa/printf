@@ -1,4 +1,4 @@
- 0x11. C - printf() project
+# 0x11. C - printf() project
 
 ![Betty style](https://img.shields.io/badge/betty-style%20guide-red?style=round-square)
 
