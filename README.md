@@ -22,10 +22,5 @@ This is project mimics the ```printf()``` function of the stdio.h library in C <
   * ```va_copy``` (man 3 va_copy)
   * ```va_arg``` (man 3 va_arg)
   
- ## Authors
-
- --------------------
-Author | Co-author
--------|-------------------
-[Alexander Gyekye](https://github.com/alxandrkgb/) | [Shina Salau](https://github.com/doubleyoushinamide/)
---------------------------
+ 
+ ------------------------------------
